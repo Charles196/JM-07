@@ -1,0 +1,43 @@
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background-color: aqua;
+}
+
+.game-options {
+    text-align: center;
+    background-color: aqua;
+}
+
+.game-board {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-gap: 10px;
+    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(174, 234, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+
+#game-over {
+    margin-top: 20px;
+}
