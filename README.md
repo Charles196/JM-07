@@ -2,7 +2,7 @@ Charles Bernardo Buteri
 
 Jogo da Memória
 
-Regras do Jogo
+Regras do Jogo:
 Como Jogar:
 - O jogo da memória consiste em encontrar pares de cartas iguais.
 - Você deve clicar em duas cartas para virá-las e tentar encontrar um par.
