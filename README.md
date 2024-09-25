@@ -6,6 +6,7 @@ Regras do Jogo (Como Jogar):
 - O jogo da memória consiste em encontrar pares de cartas iguais.
 - Você deve clicar em duas cartas para virá-las e tentar encontrar um par.
 - Se as cartas forem iguais, elas permanecem viradas. Se não, elas voltam para a posição inicial.
+- Caso deseje disputar uma partida com um outro jogador, basta adicionar o nome do segundo jogador a cada nova partida (Botão: "Jogar Novamente"). O vencedor será aquele jogador que executou um menor número total de movimentos para encontrar todos os pares.
 
 Níveis de Dificuldade:
 - Fácil: Tabuleiro 2x4 (8 pares de cartas).
